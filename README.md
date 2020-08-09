@@ -13,36 +13,29 @@ Ensure [Node.js  >=4](https://nodejs.org/en/download/), [NPM](https://docs.npmjs
  
 #### Installation
 
-1. Install this code on your local system
      
-    1. Fork this repository (click 'Fork' button in top right corner)
-    2. Clone the forked repository on your local file system
+1. Clone the repository on your local file system
     
         ```
         cd /path/to/install/location
         
-        git clone https://github.com/[your_username]/poster-shop.git
+        git clone https://github.com/malwina-mika/vue.js-practices.git
         ```
 
-2. Change directory into the local clone of the repository
 
-    ```
-    cd poster-shop
-    ```
-
-3. Install dependencies
+2. Install dependencies
 
     ```
     npm install
     ```
     
-4. Start project
+3. Start project
 
     ```
     npm run serve
     ```
 
-5. Your site will be available at *localhost:3000*.
+4. Your site will be available at *localhost:3000*.
 
 ## Troubleshooting
 
